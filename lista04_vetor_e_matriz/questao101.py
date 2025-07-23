@@ -11,3 +11,4 @@ for i in range(len(ano_2017)):
 
 for i in range(len(ano_2019)):
     print(ano_2019[i])
+    

@@ -19,3 +19,4 @@ for i in range(len(estoque)):
         if estoque[i][j] == maiorQuantidade:
             maioresIguais.append(j + 35)
     print(f"Para a marca {marcas[i]}, os tamanhos com maior quantidade em estoque são: {maioresIguais} ({maiorQuantidade} unidades).")
+    
