@@ -1,6 +1,6 @@
-# Repositório de Resoluções - Algoritmos 2024.1
+# Listas Avaliativas - Algoritmos
 
-Este repositório contém as resoluções em Python das 101 questões propostas na disciplina de Algoritmos no período 2024.1. As questões estão organizadas em 4 listas avaliativas, cada uma abordando um tópico específico no aprendizado de programação.
+Este repositório contém a resolução de 101 questões, em Python, propostas na disciplina de Algoritmos - 1° Semestre. As questões estão organizadas em 4 listas avaliativas, cada uma abordando um tópico específico no aprendizado em lógica de programação e estruturas básicas.
 
 ## 📋 Listas de Exercícios
 
